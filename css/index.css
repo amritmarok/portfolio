@@ -1,0 +1,37 @@
+
+ .navigation {padding-top: 25px;
+	         margin: 50px ; 
+             ;}
+
+ .imagecorners {
+    border: 2px #E8AEB7;
+    border-radius: 25px;
+}
+
+ .nounderline {text-decoration: none;
+             } 
+
+ .topnavbar{
+ 	border: 20px;
+ 	border-radius:30px; ;
+ 	background-color: mint green; 
+ }
+  body {background-color: #FFEDE1;
+  	    font-family: cursive;
+       }
+
+  h1{font-style: 50px;
+     font-family: 'Special Elite', cursive;
+     color: #B8E1FF;
+     margin:50px;
+     }
+
+  h3 {color: #3C1518;
+     }
+
+  a:hover{color: A4243B;
+  	font-size:200px;
+    }
+
+  a:visited
+  a:link
